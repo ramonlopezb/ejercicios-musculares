@@ -1,4 +1,10 @@
 console.log("hello wolrd");
+const selectBox = document.querySelector('.select-box');
+const selectOption = document.querySelector('.select-option');
+const soValue = document.querySelector('#soValue');
+const optionSearch = document.querySelector('.options');
+const optionsList = document.querySelectorAll('options li');
+
 
 let musculos = ['abdominals','abductors','biceps','calves','chest','forearms','glutes','hamstrings','lats','lower_back'];
 
