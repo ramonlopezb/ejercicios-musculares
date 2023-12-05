@@ -146,6 +146,9 @@
       .select-box.active .select-option:after{
         transform:rotate(-180deg);
       }
+      .section1{
+        position: relative;
+      }
 
 
 
